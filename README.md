@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Łukasz Wójcik</h1>
 <h3 align="center">A wanna be frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [ExampleShopSite](https://github.com/LukaszWojcik0/ExampleShopSite)
-
 - 📫 How to reach me **lukasz.wojcik022@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
