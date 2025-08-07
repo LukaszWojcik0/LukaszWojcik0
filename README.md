@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Łukasz from Gliwice, Poland<br>- 🔭 I’m working as Process Specialist at <a href="https://www.linkedin.com/company/pwc/posts/?feedView=all" target="_blank">PwC SDC</a>, in <a href="https://viewpoint.pwc.com/gx/en.html" target="_blank">Viewpoint</a> Content Team<br>- 📚 I'm currently learning in depths of React + Typescrpit and Python backend applications<br>- ⚡ In my free time I like to 3D model, 3D print and take photos</p>
+<p align="left">I'm Łukasz from Gliwice, Poland<br>- 🔭 I’m working as Senior Process Specialist at <a href="https://www.linkedin.com/company/pwc/posts/?feedView=all" target="_blank">PwC SDC</a>, in <a href="https://viewpoint.pwc.com/gx/en.html" target="_blank">Viewpoint</a> Content Team<br>- 📚 I'm currently learning in depths of React + Typescrpit and Python backend applications<br>- ⚡ In my free time I like to 3D model, 3D print and take photos</p>
 
 ###
 
